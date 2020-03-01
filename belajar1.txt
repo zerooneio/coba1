@@ -1,0 +1,2 @@
+1. ini adalah tahap pertama create pada github, create pada github dan kasih nama sesuai keinginan
+2. kasih sebuah komen di bawah pada commit untuk memperjelas isi dari text yang di kerjakan
